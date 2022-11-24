@@ -1,6 +1,6 @@
 # Tʜᴏᴍᴀs Sʜᴇʟʙʏ
 Very Simple Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=⬢+⬢+»+⬢+⬢+⬢!;⬢+⬢+⬢+⬢!;⬢+⬢+⬢+!;⬢+⬢+⬢+⬢+⬢!;⬢+⬢+⬢+⬢!;⬢+⬢+⬢!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=⬢+⬢+»+⬢+⬢+⬢;⬢+⬢+⬢+⬢;⬢+⬢+⬢+;⬢+⬢+⬢+⬢+⬢;⬢+⬢+⬢+⬢!;⬢+⬢+⬢)
 </p>
 
 <p align="center">
