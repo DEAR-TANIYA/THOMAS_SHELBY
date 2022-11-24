@@ -15,7 +15,7 @@ DEEZUZZA TEAM
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO**<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nihaal-TG/Thomas-Shelby)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEAR-TANIYA/THOMAS_SHELBY)</br>
 
 #### Deploy in your VPS
 ````bash
