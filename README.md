@@ -1,5 +1,5 @@
 # Tʜᴏᴍᴀs Sʜᴇʟʙʏ
-
+DEEZUZZA TEAM 
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=━━━━❰+DEEZUZZA+❱━➣+⬢+⬢+⬢;⬢+⬢+⬢+⬢;⬢+⬢+⬢+;⬢+⬢+⬢+⬢+⬢;⬢+⬢+⬢+⬢!;⬢+⬢+⬢)
 </p>
 
